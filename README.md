@@ -1,1 +1,3 @@
-# Case_study2_Google_Data_analytics
+## Case study 2
+### Bellabeat data analysis
+#### Google Data Analytics Course
